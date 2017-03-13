@@ -9,7 +9,7 @@
 
 
 
-            var link = "http://bin.qplayer.io/stable/qplayer.js";
+            var link = "http://qp-bin.k-cdn.net/stable/qplayer.js";
 
             //            #if (DEBUG)
             //                        link = "http://qplayer.qmeryserver.ir/js/bin-debug/qplayer.js?rnd";
